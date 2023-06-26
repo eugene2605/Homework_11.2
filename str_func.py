@@ -1,4 +1,4 @@
-def str_func(text):
+def all_capital_letters(text):
     """принимает на вход строку и возвращает ее со всеми заглавными буквами"""
     return text.upper()
 
